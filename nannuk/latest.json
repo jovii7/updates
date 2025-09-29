@@ -1,8 +1,3 @@
-{
-  "app": "nanuk_amz",
-  "version": "2.0",
-  "published": "2025-09-30T10:00:00Z",
-  "url": "https://jovii7.github.io/updates/nannuk/nanuk_amz_v4.0.exe",
-  "sha256": "",
-  "notes": "Correcciones de impresión y UI."
-}
+{ "version": "4.0",
+  "url": "https://raw.githubusercontent.com/jovii7/proyectos/main/Nannuk/NANNUK_amz_v4.0.exe",
+  "sha256": "opc-ional" }
